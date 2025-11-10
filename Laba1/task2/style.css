@@ -1,0 +1,15 @@
+ul {
+    color: blue
+}
+
+.name {
+    font-size: 1.5em;
+}
+
+/* ol>li::first-line{
+    font-size: 3em;
+} */
+
+body {
+    background-color: #dddddd;
+}

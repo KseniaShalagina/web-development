@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid #0001ad;
+    padding: 5px;
+    text-align: center;
+}
+
+thead th {
+    background-color: #ffeb3b;
+    color: #0b00ff;
+}
+
+.person_data:nth-child(odd) {
+    background: #feff9973;
+}
+
+.person_data:nth-child(even) {
+    background: #fff34fb3;
+}
+
+caption {
+    font-size: 25px;
+    margin-bottom: 10px;
+}

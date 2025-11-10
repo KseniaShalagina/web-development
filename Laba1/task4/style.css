@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #073d6a;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar>ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-right: 35px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+a:hover {
+    color: yellow;
+}

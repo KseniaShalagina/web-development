@@ -1,0 +1,43 @@
+form {
+    max-width: 500px;
+    padding: 10px;
+    border: 3px solid #ab0047;
+    box-shadow: 12px 13px 5px #e06f6f;
+    border-radius: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+form,
+input,
+textarea {
+    box-sizing: border-box;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 1.1rem;
+    color: #fff;
+    background-color: #991515;
+    border-radius: 15px;
+    border: 2px solid #991515;
+    margin-top: 5px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #555;
+}

@@ -1,0 +1,18 @@
+.product-card {
+    width: 250px;
+    padding: 20px;
+    border: 2px solid #975362;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 12px 14px 0 0 #dacfcc;
+    border-radius: 10px;
+
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
