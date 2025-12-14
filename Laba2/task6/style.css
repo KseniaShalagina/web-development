@@ -1,0 +1,21 @@
+body::-webkit-scrollbar {
+  width: 12px;             
+}
+body::-webkit-scrollbar-track {
+  background: #F498AD;     
+}
+body::-webkit-scrollbar-thumb {
+  background-color:#2E9AFF; 
+  border-radius: 30px;     
+ 
+}
+
+body{
+  cursor: not-allowed;
+}
+a{
+cursor: pointer;
+}
+button{
+  cursor: grab;
+}
