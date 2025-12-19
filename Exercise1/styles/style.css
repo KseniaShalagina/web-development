@@ -16,8 +16,6 @@
 
 .cards {
 
-    /* display: flex;
-    justify-content: space-around; */
     display: grid;
     gap: 30px;
     justify-content: space-around;
@@ -76,32 +74,6 @@
     margin-right: auto;
     margin-bottom: 30px;
 }
-
-/* .card_best_price {
-    position: absolute;
-    top: 121px;
-    background-image: url(../images/best-price.png);
-    z-index: 10;
-    content: "";
-    width: 62px;
-    height: 62px;
-    z-index: 2;
-    background-position: center;
-    background-size: 62px 62px;
-    background-repeat: no-repeat;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-size: 14px;
-    text-align: center;
-    line-height: 1.2;
-    padding: 5px;
-    box-sizing: border-box;
-    margin: 10px 0 0 10px;
-    overflow: hidden;
-    opacity: 0;
-} */
 
 .card_room_description {
     margin-bottom: 25px;
